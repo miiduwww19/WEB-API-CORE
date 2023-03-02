@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "Server=IT-EGP-06\SQLEXPRESS;Database=TEST_DATA;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir DATABASE -Project "DOMAIN"
